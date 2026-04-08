@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ness
 
-<img src="https://komarev.com/ghpvc/?username=NessTechDev&label=Profile%20views&color=0e75b6&style=flat" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cloud+Engineer+in+Progress;DevOps+Learner;AWS+%7C+Docker+%7C+Linux;Building+Real+World+Projects&center=true&width=500&height=50)
 
-Typing SVG
+<img src="https://komarev.com/ghpvc/?username=NessTechDev&label=Profile%20views&color=0e75b6&style=flat" />
 
 💻 IT Support → Cloud & DevOps (in progress)  
 🚀 AWS | Docker | Linux  
