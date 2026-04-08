@@ -41,7 +41,7 @@ Deployed a Linux-based web server on EC2 with SSH, networking, and security grou
 ---
 
 <p align="center">
-  <img src="YOUR_GIF_LINK" height="140px" />
+  <img src="https://media.giphy.com/media/xUn3CnyZvz2V7qOHss/giphy.gif" height="140px" />
 </p>
 
 <p align="center">
