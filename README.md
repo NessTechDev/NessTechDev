@@ -34,5 +34,10 @@ Deployed a Linux-based web server on EC2 with SSH, networking, and security grou
 
 ---
 
-### 🎯 Focus
-Terraform • CI/CD • Production Cloud Projects
+### 🎯 Currently Focus
+- 🚧 Automating cloud infrastructure with Terraform  
+- ⚙️ Designing CI/CD pipelines with GitHub Actions  
+- ☁️ Deploying scalable, production-ready cloud environments
+---
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
