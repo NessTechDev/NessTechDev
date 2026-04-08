@@ -46,9 +46,9 @@ Bash
 ---
 
 ## 📊 GitHub Stats
-Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=NessTechDev&show_icons=true&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NessTechDev&layout=compact&theme=tokyonight)
 
 ---
 
