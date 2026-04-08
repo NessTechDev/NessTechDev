@@ -51,7 +51,7 @@ Bash
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NessTechDev&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NessTechDev&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NessTechDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ---
 
