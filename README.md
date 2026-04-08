@@ -27,11 +27,12 @@ I’m currently transitioning into Cloud & DevOps by building hands-on projects 
 ---
 
 ## 🛠 Tech Stack
-AWS
-Docker
-Linux
-Git
-Bash
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-black?logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-VersionControl-red?logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-green?logo=gnubash&logoColor=white)
 
 ---
 
@@ -50,8 +51,6 @@ Bash
 ## 📊 GitHub Stats
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NessTechDev&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NessTechDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ---
 
