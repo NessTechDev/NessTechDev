@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ness
 
-Typing SVG
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cloud+Engineer+in+Progress;DevOps+Learner;AWS+%7C+Docker+%7C+Linux;Building+Real+World+Projects&center=true&width=500&height=50)
 
 💻 IT Support Technician → Cloud & DevOps Engineer (in progress)  
 🚀 Building real-world infrastructure using AWS, Docker, and Linux  
@@ -48,7 +48,7 @@ Bash
 ## 📊 GitHub Stats
 Stats
 
-Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
 ---
 
