@@ -40,4 +40,4 @@ Deployed a Linux-based web server on EC2 with SSH, networking, and security grou
 - ☁️ Deploying scalable, production-ready cloud environments
 ---
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="90%" />
