@@ -41,5 +41,9 @@ Deployed a Linux-based web server on EC2 with SSH, networking, and security grou
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUn3CnyZvz2V7qOHss/giphy.gif" height="140px" />
+  <img src="YOUR_GIF_LINK" height="140px" />
+</p>
+
+<p align="center">
+  <i>“One must still have chaos in oneself to be able to give birth to a dancing star.”</i>
 </p>
