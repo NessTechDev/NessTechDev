@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ness
 
+<img src="https://komarev.com/ghpvc/?username=NessTechDev&label=Profile%20views&color=0e75b6&style=flat" alt="NessTechDev" />
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cloud+Engineer+in+Progress;DevOps+Learner;AWS+%7C+Docker+%7C+Linux;Building+Real+World+Projects&center=true&width=500&height=50)
 
 💻 IT Support Technician → Cloud & DevOps Engineer (in progress)  
@@ -47,7 +49,9 @@ Bash
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=NessTechDev&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NessTechDev&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NessTechDev&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
