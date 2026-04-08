@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cloud+Engineer+in+Progress;DevOps+Learner;AWS+%7C+Docker+%7C+Linux;Building+Real+World+Projects&center=true&width=500&height=50)
 
-<img src="https://komarev.com/ghpvc/?username=NessTechDev&label=Profile%20views&color=0e75b6&style=flat" />
-
 💻 IT Support → Cloud & DevOps (in progress)  
 🚀 AWS | Docker | Linux  
 
@@ -31,6 +29,8 @@ Deployed a Linux-based web server on EC2 with SSH, networking, and security grou
 ## 📊 GitHub Stats
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NessTechDev&theme=tokyonight)
+
+<img src="https://komarev.com/ghpvc/?username=NessTechDev&label=Profile%20views&color=0e75b6&style=flat" />
 
 ---
 
